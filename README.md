@@ -1,3 +1,5 @@
+![KNIME](https://img.shields.io/badge/KNIME-FDD800?style=for-the-badge&logoColor=black)
+
 **# HR Attrition Analytics – KNIME & Tableau
 ITAO 7102 – Human Resources Analytics  
 MSc Business Analytics  
